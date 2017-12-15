@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{FB39A019-E4AB-4DD2-8753-E71468201FE2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ict13580015/MenuPage.xaml">
+    <Files>
+      <File FileName="../ict13580015-20171117T024050Z-001.zip" />
+      <File FileName="ict13580015/App.xaml" Line="7" Column="1" />
+      <File FileName="ict13580015/App.xaml.cs" Line="16" Column="1" />
+      <File FileName="ict13580015/MenuPage.xaml.cs" Line="76" Column="35" />
+      <File FileName="ict13580015/MyPage1.xaml" Line="27" Column="1" />
+      <File FileName="ict13580015/NavPage1.xaml" Line="28" Column="1" />
+      <File FileName="ict13580015/MenuPage.xaml" Line="7" Column="13" />
+      <File FileName="ict13580015/TabPage1.xaml" Line="12" Column="1" />
+      <File FileName="ict13580015/TabPage2.xaml" Line="11" Column="1" />
+      <File FileName="ict13580015/TabPage3.xaml" Line="11" Column="1" />
+      <File FileName="ict13580015/AbsolutePage.xaml" Line="25" Column="1" />
+      <File FileName="ict13580015/GridPage.xaml" Line="54" Column="1" />
+      <File FileName="ict13580015/ict13580015Page.xaml" Line="10" Column="28" />
+      <File FileName="ict13580015/MyPage2.xaml" Line="31" Column="1" />
+      <File FileName="ict13580015/MyPage3.xaml" Line="27" Column="1" />
+      <File FileName="ict13580015/NavPage2.xaml" Line="31" Column="1" />
+      <File FileName="ict13580015/NavPage3.xaml" Line="32" Column="1" />
+      <File FileName="ict13580015/packages.config" Line="4" Column="12" />
+      <File FileName="ict13580015/StackPage.xaml" Line="109" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="51" />
+      <File FileName="iOS/AppDelegate.cs" Line="18" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ict13580015.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.54B79233-9785-449B-A526-BD9E5615ED0A">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ict13580015.iOS>
+</Properties>
